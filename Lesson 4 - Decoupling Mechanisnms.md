@@ -1,0 +1,28 @@
+**Lesson 4 - Decoupling Mechanisms**
+	
+- It will help reduce dependency between services
+- ELB - Elastic load balancer can be used
+- Deploy multiple EC2 instances on multiple AZs
+- Also helps in security purposes
+- Done in Stateless manner
+- Active/Passive mechanism on multi-region:
+    - One setup in 1 region (primary)
+    - Another in another region (secondary)
+    - If one setup fails on health check, then pass traffic to another setup
+- Active/Active mechanism
+    - Pass traffic to region which has lower latency
+- Use route 53 for DNS service
+- Decoupling with ELB
+    - Make application operate with asynchronus communication
+    - Make more code execute on client end
+    - S3 can use event notifications to send request to lamda functions
+    - Horizontal scaling for concurrent requests
+    - Avoid an infinite loop by uploading results to a separate S3 bucket
+    - Use S3 event notifications to notify users on completion
+- Decoupling with SNS, SQS, Auto scaling
+    - Lambda has some limitations like time, memory etc
+    - Instead of lamba, we can make client send post message through SNS service
+    - Message then sent to SQS service
+    - Done in EC2 context
+    - Use auto scaling groups, configure it to the requirements from message from SQS
+    - If requirements is less, de-scale.
