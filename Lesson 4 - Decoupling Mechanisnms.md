@@ -13,7 +13,7 @@
     - Pass traffic to region which has lower latency
 - Use route 53 for DNS service
 - Decoupling with ELB
-    - Make application operate with asynchronus communication
+    - Make application operate with asynchronous communication
     - Make more code execute on client end
     - S3 can use event notifications to send request to lamda functions
     - Horizontal scaling for concurrent requests
@@ -25,4 +25,4 @@
     - Message then sent to SQS service
     - Done in EC2 context
     - Use auto scaling groups, configure it to the requirements from message from SQS
-    - If requirements is less, de-scale.
+    - If requirements are less, de-scale.
