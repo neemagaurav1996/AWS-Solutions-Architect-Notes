@@ -9,4 +9,4 @@ Contains brief notes for AWS Solutions Architect Certification - 2021
 
 **Other Resources**
 
-1. [AWS Well-Architected Framework Whitepaper](AWS Well-Architected Framework)
+- [AWS Well-Architected Framework Whitepaper](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
