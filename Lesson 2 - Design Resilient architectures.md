@@ -3,7 +3,7 @@
 **2.1 Resilient VPC**
 * Multi tier resilient VPC design
 
-**2.2 Resilient app architecture**
+**2.2 Resilient Application architecture**
 
 * ELB
 	- Elastic load balancer
@@ -26,7 +26,7 @@
 	- Availability: 4 9s
 	- Can only use MySQL and Postgres and specific versions
 
-**2.3 Resilient Multi-tier Serverless architecture**
+**2.3 Resilient Multi-tier Serverless Architecture**
 
 * Route 53
 	- Global DNS
