@@ -1,4 +1,4 @@
-# AWS-Solutions-Architect-Notes
+# AWS Solutions Architect Notes
 Contains brief notes for AWS Solutions Architect Certification - 2021
 
 - [Lesson 1 - Exam Overview](https://github.com/neemagaurav1996/AWS-Solutions-Architect-Notes/blob/main/Lesson%201%20-%20Exam%20Overview.md)
