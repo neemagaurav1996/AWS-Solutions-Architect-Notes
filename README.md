@@ -9,4 +9,10 @@ Contains brief notes for AWS Solutions Architect Certification - 2021
 
 **Other Resources**
 
-- [AWS Well-Architected Framework Whitepaper](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+1. [AWS Well-Architected Framework Whitepaper](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+2. [EC2](https://aws.amazon.com/ec2/faqs/)
+3. [S3](https://aws.amazon.com/s3/faqs/)
+4. [VPC](https://aws.amazon.com/vpc/faqs/)
+5. [Route 53](https://aws.amazon.com/route53/faqs/)
+6. [RDS](https://aws.amazon.com/rds/faqs/)
+7. [SQS](https://aws.amazon.com/sqs/faqs/)
