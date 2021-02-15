@@ -16,4 +16,5 @@ Contains brief notes for AWS Solutions Architect Certification - 2021
 5. [Route 53](https://aws.amazon.com/route53/faqs/)
 6. [RDS](https://aws.amazon.com/rds/faqs/)
 7. [SQS](https://aws.amazon.com/sqs/faqs/)
-8. [AWS Serverless Multi-Tier Architectures Whitepaper](https://d0.awsstatic.com/whitepapers/AWS_Serverless_Multi-Tier_Architectures.pdf)
+8. [Lambda](https://aws.amazon.com/lambda/faqs/)
+9. [AWS Serverless Multi-Tier Architectures Whitepaper](https://d0.awsstatic.com/whitepapers/AWS_Serverless_Multi-Tier_Architectures.pdf)
