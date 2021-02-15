@@ -7,6 +7,8 @@ Contains brief notes for AWS Solutions Architect Certification - 2021
 - [Lesson 4 - Decoupling Mechanisms](https://github.com/neemagaurav1996/AWS-Solutions-Architect-Notes/blob/main/Lesson%204%20-%20Decoupling%20Mechanisnms.md)
 - [Lesson 5 - Choosing Appropriate Resilient Storage](https://github.com/neemagaurav1996/AWS-Solutions-Architect-Notes/blob/main/Lesson%205%20-%20Choosing%20Appropriate%20Resilient%20Storage.md)
 
+More to be added...
+
 **Other Resources**
 
 1. [AWS Well-Architected Framework Whitepaper](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
