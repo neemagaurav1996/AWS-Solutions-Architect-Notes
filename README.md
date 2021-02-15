@@ -6,3 +6,7 @@ Contains brief notes for AWS Solutions Architect Certification - 2021
 - [Lesson 3 - Design highly Available, Fault Tolerant Architectures](https://github.com/neemagaurav1996/AWS-Solutions-Architect-Notes/blob/main/Lesson%203%20-%20Design%20highly%20Available%2C%20Fault%20Tolerant%20Architectures.md)
 - [Lesson 4 - Decoupling Mechanisms](https://github.com/neemagaurav1996/AWS-Solutions-Architect-Notes/blob/main/Lesson%204%20-%20Decoupling%20Mechanisnms.md)
 - [Lesson 5 - Choosing Appropriate Resilient Storage](https://github.com/neemagaurav1996/AWS-Solutions-Architect-Notes/blob/main/Lesson%205%20-%20Choosing%20Appropriate%20Resilient%20Storage.md)
+
+**Other Resources**
+
+1. [AWS Well-Architected Framework Whitepaper](AWS Well-Architected Framework)
