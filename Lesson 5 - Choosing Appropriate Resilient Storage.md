@@ -1,4 +1,4 @@
-**Lesson 5 - Choosing Apt Resilient Storage**
+**Lesson 5 - Choosing Appropriate Resilient Storage**
 
 **5.1 Instance Store**
 
