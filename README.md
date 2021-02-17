@@ -22,3 +22,4 @@ More to be added...
 8. [SNS](https://aws.amazon.com/sns/faqs/)
 9. [Lambda](https://aws.amazon.com/lambda/faqs/)
 10. [AWS Serverless Multi-Tier Architectures Whitepaper](https://d0.awsstatic.com/whitepapers/AWS_Serverless_Multi-Tier_Architectures.pdf)
+11. [Automating Elasticity](https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-automating-elasticity/introduction.html)
