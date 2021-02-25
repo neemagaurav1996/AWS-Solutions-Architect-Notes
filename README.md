@@ -24,3 +24,4 @@ More to be added...
 9. [Lambda](https://aws.amazon.com/lambda/faqs/)
 10. [AWS Serverless Multi-Tier Architectures Whitepaper](https://d0.awsstatic.com/whitepapers/AWS_Serverless_Multi-Tier_Architectures.pdf)
 11. [Automating Elasticity](https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-automating-elasticity/introduction.html)
+12. [AWS Storage Services Overview Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/aws-storage-services-overview/aws-storage-services-overview.pdf#welcome)
