@@ -7,6 +7,7 @@ Contains brief notes for AWS Solutions Architect Certification - 2021
 - [Lesson 4 - Decoupling Mechanisms](https://github.com/neemagaurav1996/AWS-Solutions-Architect-Notes/blob/main/Lesson%204%20-%20Decoupling%20Mechanisnms.md)
 - [Lesson 5 - Choosing Appropriate Resilient Storage](https://github.com/neemagaurav1996/AWS-Solutions-Architect-Notes/blob/main/Lesson%205%20-%20Choosing%20Appropriate%20Resilient%20Storage.md)
 - [Lesson 6 - Elasticity and Scalability](https://github.com/neemagaurav1996/AWS-Solutions-Architect-Notes/blob/main/Lesson%206%20-%20Elasticity%20and%20Scalability.md)
+- [Lesson 7 - Select High-performing and Scalable Storage Solutions for a Workload](https://github.com/neemagaurav1996/AWS-Solutions-Architect-Notes/blob/main/Lesson%207%20-%20Select%20High-performing%20and%20Scalable%20Storage%20Solutions%20for%20a%20Workload.md)
 
 More to be added...
 
