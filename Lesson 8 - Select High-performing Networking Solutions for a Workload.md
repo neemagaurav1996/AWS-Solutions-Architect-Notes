@@ -1,4 +1,4 @@
-**Lesson 8: Select High-performing Networking Solutions for a Workload**
+**Lesson 8 - Select High-performing Networking Solutions for a Workload**
 
 **8.1 VPC Performance**
 
