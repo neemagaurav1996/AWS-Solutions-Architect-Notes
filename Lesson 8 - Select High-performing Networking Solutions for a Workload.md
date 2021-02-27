@@ -41,18 +41,21 @@
 
 	* Designed to influence EC2 instance placement within the region for performance
 	* Placement groups can be used within single AZ or across multiple AZ
-	* Three types:
+	* Three types of Placement Groups:
+
 		1. **EC2 Cluster Placement Group**
 			- Deploy all the instances within a single rack. 
 			- No blocking, no oversubscription 
 			- High throughput, low latency
 			- Use case: Clusters have majority of traffic between group nodes
 			- Not designed for resilience
+			
 		2. **Partition Placement Group**
 			- You can deploy your resources into  multiple places in the same AZ across partition where partition = set of racks
 			- Use case: Distributed + Replicated workloads
 			- Can span multiple AZ
 			- Designed for performance and resilience
+
 		3. **EC2 Spread Placement Group**
 			- Each instance = separate rack
 			- Use case: Critical instances that must be kept separate
