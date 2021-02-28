@@ -9,6 +9,7 @@ Contains brief notes for AWS Solutions Architect Certification - 2021
 - [Lesson 6 - Elasticity and Scalability](https://github.com/neemagaurav1996/AWS-Solutions-Architect-Notes/blob/main/Lesson%206%20-%20Elasticity%20and%20Scalability.md)
 - [Lesson 7 - Select High-performing and Scalable Storage Solutions for a Workload](https://github.com/neemagaurav1996/AWS-Solutions-Architect-Notes/blob/main/Lesson%207%20-%20Select%20High-performing%20and%20Scalable%20Storage%20Solutions%20for%20a%20Workload.md)
 - [Lesson 8 - Select High-performing Networking Solutions for a Workload](https://github.com/neemagaurav1996/AWS-Solutions-Architect-Notes/blob/main/Lesson%208:%20Select%20High-performing%20Networking%20Solutions%20for%20a%20Workload.md)
+- [Lesson 9 - Choose High-performing Database Solutions for a Workload](https://github.com/neemagaurav1996/AWS-Solutions-Architect-Notes/blob/main/Lesson%209%20-%20Choose%20High-performing%20Database%20Solutions%20for%20a%20Workload.md)
 
 More to be added...
 
@@ -28,3 +29,5 @@ More to be added...
 12. [AWS Storage Services Overview Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/aws-storage-services-overview/aws-storage-services-overview.pdf#welcome)
 13. [Networking in Amazon EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-networking.html)
 14. [Building a Scalable and Secure Multi-VPC AWS Network Infrastructure](https://docs.aws.amazon.com/whitepapers/latest/building-scalable-secure-multi-vpc-network-infrastructure/building-scalable-secure-multi-vpc-network-infrastructure.pdf?did=wp_card&trk=wp_card)
+15. [Amazon RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
+16. [Getting Started with Amazon Aurora](https://d1.awsstatic.com/whitepapers/getting-started-with-amazon-aurora.pdf)
