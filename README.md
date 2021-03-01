@@ -11,6 +11,7 @@ Contains brief notes for AWS Solutions Architect Certification - 2021
 - [Lesson 8 - Select High-performing Networking Solutions for a Workload](https://github.com/neemagaurav1996/AWS-Solutions-Architect-Notes/blob/main/Lesson%208:%20Select%20High-performing%20Networking%20Solutions%20for%20a%20Workload.md)
 - [Lesson 9 - Choose High-performing Database Solutions for a Workload](https://github.com/neemagaurav1996/AWS-Solutions-Architect-Notes/blob/main/Lesson%209%20-%20Choose%20High-performing%20Database%20Solutions%20for%20a%20Workload.md)
 - [Lesson 10 - Design Secure Access to AWS Resources](https://github.com/neemagaurav1996/AWS-Solutions-Architect-Notes/blob/main/Lesson%2010%20-%20Design%20Secure%20Access%20to%20AWS%20Resources.md)
+- [Lesson 11 - Design Secure Application tier](https://github.com/neemagaurav1996/AWS-Solutions-Architect-Notes/blob/main/Lesson%2011%20-%20Design%20Secure%20Application%20tier.md)
 
 More to be added...
 
